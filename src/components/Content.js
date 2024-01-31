@@ -69,7 +69,7 @@ const Content = () => {
     const clicked = 'p-2 cursor-pointer text-blue-500 border-b-2 border-blue-500'
 
   return (
-    <div className='p-2'>
+    <div className='p-2 w-full'>
 
       {/* menu option */}
       <p className='bg-gray-100 w-fit rounded-md p-2 text-blue-500'>Orders <span className='text-gray-800 px-2'>x</span></p>
